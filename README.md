@@ -19,17 +19,16 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Ter Python instalado:
+* Ter o Python instalado:
 https://www.python.org/downloads/
 
 * Instalar biblioteca pgzero (https://pygame-zero.readthedocs.io/en/stable/):
-pip install pgzero
+- pip install pgzero
 
 ## Apresentação
 
 > Simulação de execução do Jogo:
-https://github.com/user-attachments/assets/f8f90239-0752-4309-a324-a9d12ab91c89
-
+https://github.com/user-attachments/assets/9c51bb89-baf6-428d-be69-2c520691052e
 
 
 
